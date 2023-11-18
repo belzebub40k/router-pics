@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.09418,0,0,1.09418,-89.6239,-64.2088)">
+        <g transform="matrix(1.07158,0,0,1.02114,-127.052,-31.3544)">
+            <path d="M1820.43,633.088C1820.43,550.279 1756.37,483.05 1677.46,483.05L418.3,483.05C339.389,483.05 275.324,550.279 275.324,633.088L275.324,1333.27C275.324,1416.07 339.389,1483.3 418.3,1483.3L1677.46,1483.3C1756.37,1483.3 1820.43,1416.07 1820.43,1333.27L1820.43,633.088Z" style="fill:rgb(235,235,235);stroke:black;stroke-width:9.81px;"/>
+        </g>
+        <g transform="matrix(1.41802,0,0,3.10452,-423.946,-4290.67)">
+            <path d="M1440.55,1585.32C1440.55,1575.88 1423.77,1568.22 1403.1,1568.22L599.237,1568.22C578.57,1568.22 561.79,1575.88 561.79,1585.32L561.79,1616.9C561.79,1626.34 578.57,1634 599.237,1634L1403.1,1634C1423.77,1634 1440.55,1626.34 1440.55,1616.9L1440.55,1585.32Z"/>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1.21405,1.65416,-156.356)">
+                <ellipse cx="434.261" cy="732.676" rx="8.271" ry="6.795" style="fill:rgb(146,230,26);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.21405,1.65416,-194.557)">
+                <ellipse cx="434.261" cy="732.676" rx="8.271" ry="6.795" style="fill:rgb(146,230,26);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.21405,1.65416,-232.759)">
+                <ellipse cx="434.261" cy="732.676" rx="8.271" ry="6.795" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1.21405,1.65416,-270.961)">
+                <ellipse cx="434.261" cy="732.676" rx="8.271" ry="6.795" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.5319,0,0,1.5319,-263.252,-383.405)">
+            <text x="523.536px" y="738.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">PWR</text>
+        </g>
+        <g transform="matrix(1.8976,0,0,1.8976,-879.71,-2366.17)">
+            <g transform="matrix(1.15563,0,0,1.34446,-133.304,-558.295)">
+                <ellipse cx="775.587" cy="1607.87" rx="15.997" ry="13.761" style="fill:none;stroke:rgb(146,230,26);stroke-width:2.31px;"/>
+            </g>
+            <g transform="matrix(0.807409,0,0,0.807409,105.934,311.238)">
+                <path d="M813.379,1567.44L813.518,1590.5" style="fill:none;stroke:rgb(146,230,26);stroke-width:3.58px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.5319,0,0,1.5319,-91.5012,-383.405)">
+            <text x="523.536px" y="738.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">W<tspan x="538.044px 548.716px " y="738.181px 738.181px ">AN</tspan></text>
+        </g>
+        <g transform="matrix(0.528953,0,0,0.597205,332.128,260.658)">
+            <ellipse cx="771.161" cy="683.371" rx="69.949" ry="61.955" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <ellipse cx="771.161" cy="683.371" rx="69.949" ry="61.955"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.787419,0,0,0.752109,180.628,269.323)">
+                    <rect x="653.139" y="518.051" width="196.551" height="76.318" style="fill:none;stroke:rgb(146,230,26);stroke-width:9px;"/>
+                </g>
+                <g transform="matrix(0.597714,0,0,1,310.227,0)">
+                    <ellipse cx="771.161" cy="683.371" rx="69.949" ry="61.955" style="fill:none;stroke:rgb(146,230,26);stroke-width:8.16px;"/>
+                </g>
+            </g>
+            <ellipse cx="771.161" cy="683.371" rx="69.949" ry="61.955" style="fill:none;stroke:rgb(146,230,26);stroke-width:6.91px;"/>
+        </g>
+        <g transform="matrix(1.5319,0,0,1.5319,81.2906,-383.405)">
+            <text x="523.536px" y="738.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">LAN</text>
+        </g>
+        <g transform="matrix(1.58479,0,0,1.58479,-555.971,-1868.98)">
+            <g transform="matrix(0.677966,0,0,1,261.158,-6)">
+                <rect x="966.653" y="1583.68" width="20.607" height="11.351" style="fill:none;stroke:rgb(146,230,26);stroke-width:2.49px;"/>
+            </g>
+            <g transform="matrix(1.00001,0.00121782,0.00121782,1.12544,-53.9699,-202.896)">
+                <path d="M963.429,1613.56L963.317,1602.05" style="fill:none;stroke:rgb(146,230,26);stroke-width:0.98px;"/>
+            </g>
+            <g transform="matrix(1.00001,0.00121782,0.00121782,1.12544,-30.9699,-202.896)">
+                <path d="M963.429,1613.56L963.317,1602.05" style="fill:none;stroke:rgb(146,230,26);stroke-width:0.98px;"/>
+            </g>
+            <g transform="matrix(1.00001,0.00121782,0.00121782,1.12544,-41.9699,-214.896)">
+                <path d="M963.429,1613.56L963.317,1602.05" style="fill:none;stroke:rgb(146,230,26);stroke-width:0.98px;"/>
+            </g>
+            <g transform="matrix(0.677966,0,0,1,248.759,29.9106)">
+                <rect x="966.653" y="1583.68" width="20.607" height="11.351" style="fill:none;stroke:rgb(146,230,26);stroke-width:2.49px;"/>
+            </g>
+            <g transform="matrix(0.677966,0,0,1,272.684,29.9106)">
+                <rect x="966.653" y="1583.68" width="20.607" height="11.351" style="fill:none;stroke:rgb(146,230,26);stroke-width:2.49px;"/>
+            </g>
+            <g transform="matrix(1.02778e-16,-1.6785,1.6785,1.02778e-16,-1726.8,2967.34)">
+                <path d="M813.379,1567.44L813.518,1590.5" style="fill:none;stroke:rgb(146,230,26);stroke-width:2.06px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.5319,0,0,1.5319,247.837,-383.405)">
+            <text x="523.536px" y="738.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">WIFI</text>
+        </g>
+        <g transform="matrix(2.47392,-4.90105e-17,4.90105e-17,-2.87412,-1492.88,2590.86)">
+            <path d="M1018.51,680.789C1025.36,686.34 1028.17,686.327 1037.85,686.327C1047.53,686.327 1047.92,687.036 1054.77,681.484L1037.85,656.726L1018.51,680.789Z" style="fill:none;"/>
+            <clipPath id="_clip2">
+                <path d="M1018.51,680.789C1025.36,686.34 1028.17,686.327 1037.85,686.327C1047.53,686.327 1047.92,687.036 1054.77,681.484L1037.85,656.726L1018.51,680.789Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <g transform="matrix(0.664549,-1.13321e-17,1.37454e-17,-0.693833,340.992,1121.69)">
+                    <ellipse cx="1048.52" cy="686.516" rx="54.906" ry="45.266" style="fill:none;stroke:rgb(146,230,26);stroke-width:6px;"/>
+                </g>
+                <g transform="matrix(0.508326,-8.66814e-18,9.3507e-18,-0.471999,505.01,971.947)">
+                    <ellipse cx="1048.52" cy="686.516" rx="54.906" ry="45.266" style="fill:none;stroke:rgb(146,230,26);stroke-width:8.38px;"/>
+                </g>
+                <g transform="matrix(0.320534,-5.46585e-18,5.49163e-18,-0.277203,701.912,839.499)">
+                    <ellipse cx="1048.52" cy="686.516" rx="54.906" ry="45.266" style="fill:rgb(146,230,26);stroke:rgb(146,230,26);stroke-width:9.58px;"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.5319,0,0,1.5319,408.138,-383.106)">
+            <text x="523.536px" y="738.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">3G/4G</text>
+        </g>
+        <g transform="matrix(1,0,0,1,7.24809,-3.16934)">
+            <g transform="matrix(0.818182,0,0,0.577499,218.237,301.535)">
+                <rect x="1200.31" y="659.544" width="18.76" height="54.148" style="fill:rgb(146,230,26);"/>
+            </g>
+            <g transform="matrix(0.818182,0,0,0.854866,240.55,103.581)">
+                <rect x="1200.31" y="659.544" width="18.76" height="54.148" style="fill:rgb(146,230,26);"/>
+            </g>
+            <g transform="matrix(0.818182,0,0,1.15481,262.863,-110.486)">
+                <rect x="1200.31" y="659.544" width="18.76" height="54.148" style="fill:rgb(146,230,26);"/>
+            </g>
+            <g transform="matrix(0.818182,0,0,1.61601,285.176,-439.643)">
+                <rect x="1200.31" y="659.544" width="18.76" height="54.148" style="fill:rgb(146,230,26);"/>
+            </g>
+        </g>
+    </g>
+</svg>
