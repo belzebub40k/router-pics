@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.92562,0,0,1.03148,-134.09,-108.155)">
+        <path d="M2186.15,542.567C2186.15,362.686 2023.41,216.646 1822.95,216.646L627.491,216.646C427.038,216.646 264.295,362.686 264.295,542.567L264.295,1606.1C264.295,1785.98 427.038,1932.02 627.491,1932.02L1822.95,1932.02C2023.41,1932.02 2186.15,1785.98 2186.15,1606.1L2186.15,542.567Z" style="fill:rgb(242,242,242);"/>
+        <clipPath id="_clip1">
+            <path d="M2186.15,542.567C2186.15,362.686 2023.41,216.646 1822.95,216.646L627.491,216.646C427.038,216.646 264.295,362.686 264.295,542.567L264.295,1606.1C264.295,1785.98 427.038,1932.02 627.491,1932.02L1822.95,1932.02C2023.41,1932.02 2186.15,1785.98 2186.15,1606.1L2186.15,542.567Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1.09674,0,0,1.03084,129.365,4.59204)">
+                <path d="M1440.55,1601.11C1440.55,1582.96 1425.11,1568.22 1406.1,1568.22L596.243,1568.22C577.228,1568.22 561.79,1582.96 561.79,1601.11C561.79,1619.27 577.228,1634 596.243,1634L1406.1,1634C1425.11,1634 1440.55,1619.27 1440.55,1601.11Z"/>
+                <clipPath id="_clip2">
+                    <path d="M1440.55,1601.11C1440.55,1582.96 1425.11,1568.22 1406.1,1568.22L596.243,1568.22C577.228,1568.22 561.79,1582.96 561.79,1601.11C561.79,1619.27 577.228,1634 596.243,1634L1406.1,1634C1425.11,1634 1440.55,1619.27 1440.55,1601.11Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g transform="matrix(0.985064,0,0,0.940476,14.1327,95.7878)">
+                        <g transform="matrix(1.15563,0,0,1.34446,-133.304,-558.295)">
+                            <ellipse cx="775.587" cy="1607.87" rx="15.997" ry="13.761" style="fill:none;stroke:rgb(146,230,26);stroke-width:4.79px;"/>
+                        </g>
+                        <g transform="matrix(0.807409,0,0,0.807409,105.934,311.238)">
+                            <path d="M813.379,1567.44L813.518,1590.5" style="fill:none;stroke:rgb(146,230,26);stroke-width:7.44px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.985064,0,0,0.940476,0.806699,94.9627)">
+                        <g transform="matrix(0.677966,0,0,1,261.158,-6)">
+                            <rect x="966.653" y="1583.68" width="20.607" height="11.351" style="fill:none;stroke:rgb(146,230,26);stroke-width:4.31px;"/>
+                        </g>
+                        <g transform="matrix(1.00001,0.00121782,0.00121782,1.12544,-53.9699,-202.896)">
+                            <path d="M963.429,1613.56L963.317,1602.05" style="fill:none;stroke:rgb(146,230,26);stroke-width:1.7px;"/>
+                        </g>
+                        <g transform="matrix(1.00001,0.00121782,0.00121782,1.12544,-30.9699,-202.896)">
+                            <path d="M963.429,1613.56L963.317,1602.05" style="fill:none;stroke:rgb(146,230,26);stroke-width:1.7px;"/>
+                        </g>
+                        <g transform="matrix(1.00001,0.00121782,0.00121782,1.12544,-41.9699,-214.896)">
+                            <path d="M963.429,1613.56L963.317,1602.05" style="fill:none;stroke:rgb(146,230,26);stroke-width:1.7px;"/>
+                        </g>
+                        <g transform="matrix(0.677966,0,0,1,248.759,29.9106)">
+                            <rect x="966.653" y="1583.68" width="20.607" height="11.351" style="fill:none;stroke:rgb(146,230,26);stroke-width:4.31px;"/>
+                        </g>
+                        <g transform="matrix(0.677966,0,0,1,272.684,29.9106)">
+                            <rect x="966.653" y="1583.68" width="20.607" height="11.351" style="fill:none;stroke:rgb(146,230,26);stroke-width:4.31px;"/>
+                        </g>
+                        <g transform="matrix(1.02778e-16,-1.6785,1.6785,1.02778e-16,-1726.8,2967.34)">
+                            <path d="M813.379,1567.44L813.518,1590.5" style="fill:none;stroke:rgb(146,230,26);stroke-width:3.58px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.48389,0,0,1.41672,-546.496,-646.354)">
+                        <text x="1071.87px" y="1584.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.667px;fill:rgb(146,230,26);">2.4</text>
+                        <text x="1066.17px" y="1603.29px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.667px;fill:rgb(146,230,26);">GHz</text>
+                    </g>
+                    <g transform="matrix(1.48389,0,0,1.41672,-385.683,-646.689)">
+                        <text x="1079.65px" y="1584.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.667px;fill:rgb(146,230,26);">5</text>
+                        <text x="1066.17px" y="1603.29px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.667px;fill:rgb(146,230,26);">GHz</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="M2186.15,542.567C2186.15,362.686 2023.41,216.646 1822.95,216.646L627.491,216.646C427.038,216.646 264.295,362.686 264.295,542.567L264.295,1606.1C264.295,1785.98 427.038,1932.02 627.491,1932.02L1822.95,1932.02C2023.41,1932.02 2186.15,1785.98 2186.15,1606.1L2186.15,542.567Z" style="fill:none;stroke:black;stroke-width:7.91px;"/>
+    </g>
+</svg>
