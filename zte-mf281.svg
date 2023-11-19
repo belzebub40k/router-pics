@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-68.3852,-11.87)">
+        <g transform="matrix(0.978749,0,0,0.909091,45.6055,166.982)">
+            <path d="M1597.05,1827.64C1597.05,1782.1 1562.71,1745.14 1520.42,1745.14L575.687,1745.14C533.394,1745.14 492.928,1783.2 492.928,1828.74C492.928,1857.43 512.692,1869.52 533.359,1884.3C545.49,1892.98 580.478,1900.24 596.121,1900.24L1067.42,1905.39L1492.83,1902.44C1510.09,1902.44 1559.74,1888.58 1572.55,1878.2C1591.14,1863.14 1597.05,1854.59 1597.05,1827.64Z" style="fill:rgb(177,187,197);stroke:black;stroke-width:8.2px;"/>
+        </g>
+        <path d="M626.046,147.144L706.246,236.884L1409.95,241.057L1491.55,146.337L626.046,147.144Z" style="fill:white;"/>
+        <clipPath id="_clip1">
+            <path d="M626.046,147.144L706.246,236.884L1409.95,241.057L1491.55,146.337L626.046,147.144Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <path d="M968.44,142.522L971.937,221.633" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1016.74,138.359L1016.74,222.465" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1069.2,139.191L1069.2,214.137" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1115.83,137.526L1121.66,224.13" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1159.13,133.362L1163.3,199.148" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1209.1,135.86L1207.26,221.632" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1264.06,129.199L1252.57,206.643" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1317.35,140.024L1287.38,223.297" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1361.32,136.692L1327.18,211.639" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1408.12,139.188L1349.81,244.15" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M1446.43,141.69L1388.96,229.126" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M918.739,139.464L918.739,218.824" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M861.566,141.597L874.139,220.937" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M808.232,139.037L838.926,233.331" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M763.859,140.317L799.699,222.664" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M714.999,139.811L763.172,215.331" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+            <path d="M672.552,135.624L730.579,232.477" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+        </g>
+        <path d="M626.046,147.144L706.246,236.884L1409.95,241.057L1491.55,146.337L626.046,147.144Z" style="fill:none;stroke:black;stroke-width:7.75px;"/>
+        <g transform="matrix(1.01198,0,0,0.979305,-13.2361,-7.87958)">
+            <path d="M1590.98,235.955C1590.98,217.998 1576.87,203.418 1559.49,203.418L572.91,203.418C555.532,203.418 541.423,217.998 541.423,235.955L541.423,1799.85C541.423,1801.9 540.941,1832.6 561.446,1838.08C574.421,1841.54 619.787,1860.59 678.264,1865.63C725.546,1869.71 781.399,1871.51 835.631,1873.47C952.399,1877.68 1061.65,1878.89 1061.65,1878.89C1061.65,1878.89 1308.79,1879.42 1391.76,1873.2C1448.5,1868.95 1526.29,1853.8 1559.49,1841.58C1575.84,1835.56 1590.98,1817.81 1590.98,1799.85L1590.98,235.955Z" style="fill:rgb(235,235,235);stroke:black;stroke-width:7.78px;"/>
+        </g>
+        <g transform="matrix(1.02477,0,0,0.085479,-29.1811,111.711)">
+            <path d="M1585.98,255.74C1585.98,197.716 1582.05,150.608 1577.2,150.608L559.034,150.608C554.194,150.608 550.264,197.716 550.264,255.74L550.264,559.595L1585.98,559.595L1585.98,255.74Z" style="fill:rgb(235,235,235);stroke:black;stroke-width:10.66px;"/>
+        </g>
+        <g>
+            <g transform="matrix(1.33733,0,0,1.33733,28.7449,-859.246)">
+                <g transform="matrix(1.15563,0,0,1.34446,-132.421,-556.418)">
+                    <ellipse cx="775.587" cy="1607.87" rx="15.997" ry="13.761" style="fill:none;stroke:rgb(136,136,136);stroke-width:3.58px;"/>
+                </g>
+                <g transform="matrix(0.807409,0,0,0.807409,107.43,314.229)">
+                    <path d="M813.379,1567.44L813.518,1590.5" style="fill:none;stroke:rgb(136,136,136);stroke-width:5.56px;"/>
+                </g>
+                <g transform="matrix(0.752299,0,0,0.76748,-32.5098,610.406)">
+                    <ellipse cx="1058.6" cy="1296.3" rx="49.698" ry="48.715" style="fill:none;stroke:rgb(136,136,136);stroke-width:3.05px;"/>
+                </g>
+            </g>
+            <g transform="matrix(1.05059,0,0,1.05059,-60.7993,-64.522)">
+                <text x="1008.13px" y="1463.31px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.667px;">SIGNAL</text>
+            </g>
+            <g transform="matrix(1,0,0,1.00977,-0.209715,-241.865)">
+                <ellipse cx="1050.44" cy="1644.4" rx="9.577" ry="9.507" style="fill:rgb(136,136,136);"/>
+            </g>
+            <g transform="matrix(1.05059,0,0,1.05059,-37.763,38.7313)">
+                <text x="1008.13px" y="1463.31px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.667px;">WIFI</text>
+            </g>
+            <g transform="matrix(1,0,0,1.00977,-0.209715,-129.734)">
+                <ellipse cx="1050.44" cy="1644.4" rx="9.577" ry="9.507" style="fill:rgb(136,136,136);"/>
+            </g>
+            <g transform="matrix(1.05059,0,0,1.05059,-63.1111,155.476)">
+                <text x="1008.13px" y="1463.31px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.667px;">POWER</text>
+            </g>
+            <g transform="matrix(1,0,0,1.00977,-0.209715,-16.0716)">
+                <ellipse cx="1050.44" cy="1644.4" rx="9.577" ry="9.507" style="fill:rgb(136,136,136);"/>
+            </g>
+        </g>
+    </g>
+</svg>
